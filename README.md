@@ -20,3 +20,6 @@ An interactive sales analytics dashboard built with Python and Streamlit.
 pip install streamlit pandas plotly
 python -m streamlit run app.py
 ```
+
+## Live Demo
+-URL : https://mj-sales-analytics.streamlit.app/
